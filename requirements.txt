@@ -1,0 +1,4 @@
+tk
+googletrans
+clipboard
+pathlib
